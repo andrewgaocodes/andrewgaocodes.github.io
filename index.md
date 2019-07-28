@@ -4,7 +4,6 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
   img.resize {
-    padding-top: 50px;
 
   max-width:50%;
   max-height:50%;
@@ -32,6 +31,7 @@ display: block;
   </div>
 
   <div id="About Me" class="w3-container city" style="display:none">
+  <br> <br> <br> 
   <img id="portrait"  class = "resize" src="IMG_1628.jpg" alt="Photo of Andrew Gao">
 
   <p>Hi! I'm Andy, from San Diego, CA. I'm passionate about programming, biology, entrepreneurship and more. In my free time, I like to read about cultural anthropology. Currently I'm organizing <a href="ravenhack.org">Raven Hack</a>, San Diego's <strong>first</strong> free hackathon for all high schoolers.</p>
