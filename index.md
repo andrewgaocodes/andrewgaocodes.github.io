@@ -7,8 +7,10 @@
   max-width:50%;
   max-height:50%;
     border-radius: 8px;
-   margin-left: auto;
+display: block;
+  margin-left: auto;
   margin-right: auto;
+  width: 50%;
 
 }
   </style>
