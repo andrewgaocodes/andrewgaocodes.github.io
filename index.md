@@ -5,38 +5,36 @@
 <body>
 
 <div class="w3-container">
-  <h2>Tabs in a Grid</h2>
-
   <div class="w3-row">
-    <a href="javascript:void(0)" onclick="openCity(event, 'London');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">London</div>
+    <a href="javascript:void(0)" onclick="openSection(event, 'About Me');">
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">About Me</div>
     </a>
-    <a href="javascript:void(0)" onclick="openCity(event, 'Paris');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">Paris</div>
+    <a href="javascript:void(0)" onclick="openSection(event, 'My Projects');">
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">My Projects</div>
     </a>
-    <a href="javascript:void(0)" onclick="openCity(event, 'Tokyo');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">Tokyo</div>
+    <a href="javascript:void(0)" onclick="openSection(event, 'My Experience');">
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">My Experience</div>
     </a>
   </div>
 
-  <div id="London" class="w3-container city" style="display:none">
-    <h2>London</h2>
-    <p>London is the capital city of England.</p>
+  <div id="About Me" class="w3-container city" style="display:none">
+    <h2>About Me</h2>
+    <p>About Me</p>
   </div>
 
-  <div id="Paris" class="w3-container city" style="display:none">
-    <h2>Paris</h2>
-    <p>Paris is the capital of France.</p> 
+  <div id="My Projects" class="w3-container city" style="display:none">
+    <h2>My Projects</h2>
+    <p>My Projects</p> 
   </div>
 
-  <div id="Tokyo" class="w3-container city" style="display:none">
-    <h2>Tokyo</h2>
-    <p>Tokyo is the capital of Japan.</p>
+  <div id="My Experience" class="w3-container city" style="display:none">
+    <h2>My Experience</h2>
+    <p>My Experience</p>
   </div>
 </div>
 
 <script>
-function openCity(evt, cityName) {
+function openSection(evt, cityName) {
   var i, x, tablinks;
   x = document.getElementsByClassName("city");
   for (i = 0; i < x.length; i++) {
