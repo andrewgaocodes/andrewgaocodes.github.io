@@ -11,7 +11,8 @@
     <div class="container">
 <div class="tabs is-large is-centered">
   <ul>
-    <li><a href="aboutme.md">About Me</a></li>
+    <li><a>About Me</a></li>
+    # Hi
     <li><a>My Projects</a></li>
     <li><a>My Experience</a></li>
     <li><a>Contact Me</a></li>
