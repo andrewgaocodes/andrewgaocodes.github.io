@@ -18,30 +18,29 @@ display: block;
 <body>
 <div class="w3-container">
   <div class="w3-row">
-    <a href="javascript:void(0)" onclick="openSection(event, 'About Me');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">About Me</div>
+    <a href="javascript:void(0)" onclick="openSection(event, 'About');">
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">About</div>
     </a>
-    <a href="javascript:void(0)" onclick="openSection(event, 'My Projects');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">My Projects</div>
+    <a href="javascript:void(0)" onclick="openSection(event, 'Projects');">
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">Projects</div>
     </a>
-    <a href="javascript:void(0)" onclick="openSection(event, 'My Experience');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">My Experience</div>
+    <a href="javascript:void(0)" onclick="openSection(event, 'Experience');">
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">Experience</div>
     </a>
   </div>
 
-  <div id="About Me" class="w3-container city" style="display:none">
-  <br> <br>
-  <!–– <img id="portrait"  class = "resize" src="IMG_1628.jpg" alt="Photo of Andrew Gao"> -->
+  <div id="About" class="w3-container city" style="display:none">
+
 
   <p>Hi! I'm Andy, from San Diego, CA. I'm passionate about programming, biology, entrepreneurship and more. In my free time, I like to read about cultural anthropology. Currently I'm organizing <a href="ravenhack.org">Raven Hack</a>, San Diego's <strong>first</strong> free hackathon for all high schoolers.</p>
   </div>
 
-  <div id="My Projects" class="w3-container city" style="display:none">
-    <p>My Projects</p> 
+  <div id="Projects" class="w3-container city" style="display:none">
+    <p>Projects</p> 
   </div>
 
-  <div id="My Experience" class="w3-container city" style="display:none">
-    <p>My Experience</p>
+  <div id="Experience" class="w3-container city" style="display:none">
+    <p>Experience<p>
   </div>
 </div>
 
