@@ -9,12 +9,13 @@
   <body>
   <section class="section">
     <div class="container">
- <nav class="breadcrumb has-bullet-separator" aria-label="breadcrumbs">
+ <nav class="breadcrumb has-bullet-separator is-centered" aria-label="breadcrumbs">
   <ul>
-    <li><a href="#">Bulma</a></li>
-    <li><a href="#">Documentation</a></li>
-    <li><a href="#">Components</a></li>
-    <li class="is-active"><a href="#" aria-current="page">Breadcrumb</a></li>
+    <li><a href="#">About Me</a></li>
+    <li><a href="#">My Projects</a></li>
+    <li><a href="#">My Experience</a></li>
+    <li><a href="#">Contact Me</a></li>
+
   </ul>
 </nav>
 
