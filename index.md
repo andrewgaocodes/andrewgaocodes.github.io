@@ -7,27 +7,27 @@
 <div class="w3-container">
   <div class="w3-row">
     <a href="javascript:void(0)" onclick="openSection(event, 'About Me');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">About Me</div>
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">About Me</div>
     </a>
     <a href="javascript:void(0)" onclick="openSection(event, 'My Projects');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">My Projects</div>
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">My Projects</div>
     </a>
     <a href="javascript:void(0)" onclick="openSection(event, 'My Experience');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">My Experience</div>
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">My Experience</div>
     </a>
   </div>
 
-  <div id="About Me" class="w3-container city" style="display:none">
+  <div id="About Me" class="w3-container city" style="text-align:center">
     <h2>About Me</h2>
     <p>About Me</p>
   </div>
 
-  <div id="My Projects" class="w3-container city" style="display:none">
+  <div id="My Projects" class="w3-container city" style="text-align:center">
     <h2>My Projects</h2>
     <p>My Projects</p> 
   </div>
 
-  <div id="My Experience" class="w3-container city" style="display:none">
+  <div id="My Experience" class="w3-container city" style="text-align:center">
     <h2>My Experience</h2>
     <p>My Experience</p>
   </div>
