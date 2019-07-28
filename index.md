@@ -9,15 +9,6 @@
   <body>
   <section class="section">
     <div class="container">
- <nav class="breadcrumb has-bullet-separator is-centered" aria-label="breadcrumbs">
-  <ul>
-    <li><a href="#">About Me</a></li>
-    <li><a href="#">My Projects</a></li>
-    <li><a href="#">My Experience</a></li>
-    <li><a href="#">Contact Me</a></li>
-
-  </ul>
-</nav>
 <div class="tabs is-large is-centered">
   <ul>
     <li class="is-active"><a>About Me</a></li>
