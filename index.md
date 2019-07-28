@@ -16,7 +16,7 @@ display: block;
 }
   </style>
 <body>
-<body onload=' location.href="#About Me" '>
+  openSection(event, 'About Me');
 <div class="w3-container">
   <div class="w3-row">
     <a href="javascript:void(0)" onclick="openSection(event, 'About Me');">
