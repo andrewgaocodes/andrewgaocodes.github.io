@@ -19,7 +19,7 @@ display: block;
 
 <div class="w3-container">
   <div class="w3-row">
-    <a href="javascript:void(0)" onclick="openSection(event, 'About Me');">
+    <a href="javascript:void(1)" onclick="openSection(event, 'About Me');">
       <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding" style="text-align:center">About Me</div>
     </a>
     <a href="javascript:void(0)" onclick="openSection(event, 'My Projects');">
@@ -31,7 +31,7 @@ display: block;
   </div>
 
   <div id="About Me" class="w3-container city" style="display:none">
-  <br> <br> <br> 
+  <br> <br>
   <img id="portrait"  class = "resize" src="IMG_1628.jpg" alt="Photo of Andrew Gao">
 
   <p>Hi! I'm Andy, from San Diego, CA. I'm passionate about programming, biology, entrepreneurship and more. In my free time, I like to read about cultural anthropology. Currently I'm organizing <a href="ravenhack.org">Raven Hack</a>, San Diego's <strong>first</strong> free hackathon for all high schoolers.</p>
