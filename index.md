@@ -19,7 +19,7 @@
 
   <div id="About Me" class="w3-container city" style="display:none">
     <h2>About Me</h2>
-<span style="display:block" class="note">It **works!**</span>
+  <p>Hi! I'm Andy, from San Diego, CA. I'm passionate about programming, biology, entrepreneurship and more. In my free time, I like to read about cultural anthropology. Currently I'm organizing <a href="ravenhack.org">Raven Hack</a>, San Diego's <strong>first</strong> free hackathon for all high schoolers.</p>
   </div>
 
   <div id="My Projects" class="w3-container city" style="display:none">
