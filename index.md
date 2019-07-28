@@ -17,17 +17,17 @@
     </a>
   </div>
 
-  <div id="About Me" class="w3-container city" style="text-align:center">
+  <div id="About Me" class="w3-container city" style="display:none">
     <h2>About Me</h2>
-    <p>About Me</p>
+<span style="display:block" class="note">It **works!**</span>
   </div>
 
-  <div id="My Projects" class="w3-container city" style="text-align:center">
+  <div id="My Projects" class="w3-container city" style="display:none">
     <h2>My Projects</h2>
     <p>My Projects</p> 
   </div>
 
-  <div id="My Experience" class="w3-container city" style="text-align:center">
+  <div id="My Experience" class="w3-container city" style="display:none">
     <h2>My Experience</h2>
     <p>My Experience</p>
   </div>
