@@ -22,5 +22,3 @@
   </section>
   </body>
 </html>
- # Hi! I'm Andrew.
- ## Welcome to my site. I'm a high school student who's interested in robotics and bioinformatics. I am currently working on several research projects and I'm also the captain of my robotics team. When I'm not not coding or working in the lab, I'm most likely learning a new language, which is currently Kiswahili (Ninasema kiswahili).
