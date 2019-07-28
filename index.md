@@ -6,6 +6,8 @@
   img.resize {
   max-width:50%;
   max-height:50%;
+    border-radius: 8px;
+
 }
   </style>
 <body>
