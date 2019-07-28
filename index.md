@@ -2,6 +2,12 @@
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+  img.resize {
+  max-width:50%;
+  max-height:50%;
+}
+  </style>
 <body>
 
 <div class="w3-container">
@@ -19,7 +25,7 @@
 
   <div id="About Me" class="w3-container city" style="display:none">
     <h2>About Me</h2>
-  <img id="portrait" src="IMG_1628.jpg" alt="Photo of Andrew Gao">
+  <img id="portrait"  class = "resize" src="IMG_1628.jpg" alt="Photo of Andrew Gao">
 
   <p>Hi! I'm Andy, from San Diego, CA. I'm passionate about programming, biology, entrepreneurship and more. In my free time, I like to read about cultural anthropology. Currently I'm organizing <a href="ravenhack.org">Raven Hack</a>, San Diego's <strong>first</strong> free hackathon for all high schoolers.</p>
   </div>
