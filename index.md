@@ -4,6 +4,8 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
   img.resize {
+    padding-top: 50px;
+
   max-width:50%;
   max-height:50%;
     border-radius: 8px;
