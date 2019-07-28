@@ -30,19 +30,16 @@ display: block;
   </div>
 
   <div id="About Me" class="w3-container city" style="display:none">
-    <h2>About Me</h2>
   <img id="portrait"  class = "resize" src="IMG_1628.jpg" alt="Photo of Andrew Gao">
 
   <p>Hi! I'm Andy, from San Diego, CA. I'm passionate about programming, biology, entrepreneurship and more. In my free time, I like to read about cultural anthropology. Currently I'm organizing <a href="ravenhack.org">Raven Hack</a>, San Diego's <strong>first</strong> free hackathon for all high schoolers.</p>
   </div>
 
   <div id="My Projects" class="w3-container city" style="display:none">
-    <h2>My Projects</h2>
     <p>My Projects</p> 
   </div>
 
   <div id="My Experience" class="w3-container city" style="display:none">
-    <h2>My Experience</h2>
     <p>My Experience</p>
   </div>
 </div>
