@@ -32,7 +32,7 @@ display: block;
   <div id="About" class="w3-container city" style="display:none">
 
 
-  <p>Hi! I'm Andy, from San Diego, CA. I'm passionate about programming, biology, entrepreneurship and more. In my free time, I like to read about cultural anthropology. Currently I'm organizing <a href="ravenhack.org">Raven Hack</a>, San Diego's <strong>first</strong> free hackathon for all high schoolers.</p>
+  <p>Hi! I'm Andrew Gao, from San Diego, CA. I'm passionate about programming, biology, entrepreneurship and more. In my free time, I like to read about cultural anthropology. Currently I'm organizing <a href="ravenhack.org">Raven Hack</a>, San Diego's <strong>first</strong> free hackathon for all high schoolers.</p>
   </div>
 
   <div id="Projects" class="w3-container city" style="display:none">
