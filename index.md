@@ -1,6 +1,6 @@
 ---
 title: Writing
 ---
-[My blog](https://blog.andrewg.me)
+[Read my blog](https://blog.andrewg.me)
 
-More coming soon!
+# What's this?
