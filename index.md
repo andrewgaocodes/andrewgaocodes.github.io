@@ -1,12 +1,13 @@
 ---
 title: Writing
 ---
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 [Read my blog](https://blog.andrewg.me)
 
 # What's this?
 This site serves as a place for me to post updates about the things I'm working on, for example [Raven Hack](http://ravenhack.org/). The site is also a landing page to my [blog](https://blog.andrewg.me), where I post about my experiences learning languages, being a teen entrepreneur, surviving high school, and more. I also occasionally put some resources I have used or created on there. 
 Unlike a lot of personal webpages, this is *not* a CV, as I already have a fairly robust [Linkedin profile](https://www.linkedin.com/in/andrewgao22/). Feel free to check that out if you want to learn more about me. 
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrewgao22"><a class="LI-simple-link" href='https://www.linkedin.com/in/andrewgao22?trk=profile-badge'>Andrew Gao</a></div>
 # Who am I?
 I'm a high school student living in sunny San Diego!  I enjoy biology, coding, and entrepreneurship. When I'm not working on a research project or organizing an event, you'll most likely find me with my nose in a history book or studying some random language. 
 
