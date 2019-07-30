@@ -33,5 +33,5 @@ I'm always open to help out with various projects however I can. If you think th
 # How did I make this site?
 I coded this site with Github Pages and a Jekyll theme. The content of the pages are in Markdown. It's a pretty minimalist design overall. If you're interested in creating a site, Github is free and you can get Pro and a complimentary custom domain if you are a student. Also [Adam P's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  was an invaluable (linguistic quirk: invaluable means virtually the same thing as valuable) resource for me to learn Markdown.
 
-![My Logo](https://github.com/andrewgaocodes/andrewgaocodes.github.io/blob/master/CCA%20iGEM.png)
+![My Logo](CCA%20iGEM.png)
 
