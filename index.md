@@ -22,7 +22,7 @@ I'm super passionate about making STEM more accessible to all. As someone who wo
 + I love to watch Bollywood movies (and picked up a little Hindi along the way); I've seen PK, Dangal, Three Idiots, Dilwale, Happy New Year, Baahubali, and more.
 
 # Contact Me
-I'm always open to help out with various projects however I can. If you think that we could potentially collaborate, feel free to leave me a message! I excel at organization.  *Serious enquiries only please! No soliciting or recruiting!*
+I'm always open to help out with various projects however I can. If you think that we could potentially collaborate, feel free to leave me a message! I excel at organization, marketing, and design.  *Serious enquiries only please! No soliciting or recruiting!*
 
 | Medium | Contact Info |
 | --- | --- |
