@@ -26,7 +26,7 @@ I'm always open to help out with various projects however I can. If you think th
 
 | Medium | Contact Info |
 | --- | --- |
-| email | andrewgao22 (at) (google owned mail service) (dot) com |
+| email | me (at) andrewg (dot) me |
 | linkedin | [andrewgao22](https://www.linkedin.com/in/andrewgao22/) |
 | github | [andrewgcodes](https://github.com/andrewgcodes/) |
 
