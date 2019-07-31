@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: Welcome
 ---
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 [Read my blog](https://blog.andrewg.me)
