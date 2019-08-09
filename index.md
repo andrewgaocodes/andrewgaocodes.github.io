@@ -15,8 +15,6 @@ I'm a high school student living in sunny San Diego!  I enjoy biology, coding, a
 Currently, I'm organizing San Diego's **First** free hackathon for all high schoolers, [Raven Hack](http://ravenhack.org/), which I co-founded. I'm also working at [Spark Teen](https://www.sparkteenmarket.com/) as a Regional President, helping run an youth entrepreneurship collaborative "night market" and pitchfest where we're awarding $1000 in prize money. Also, I'm an official ambassador for the Congressional App Challenge, encouraging students from diverse backgrounds to try out STEM. Similarly, I founded and coach an FLL and FTC robotics team, the first in my community, in order to let more kids get involved with robotics. Besides that, I'm involved in a few other things, which you can check out on my Linkedin.
 
 # Why do I do what I do?
-I'm super passionate about making STEM more accessible to all. As someone who would have never gotten into STEM without someone else introducing me to it, I understand how science can be intimidating and seem like something just for super smart nerds. That's why I focus a large portion of my energy on somehow spreading STEM throughout my community. 
-
 # Fun Facts
 + I have four younger siblings.
 + I speak five languages and I'm learning Latin.
